@@ -21,8 +21,10 @@ ul{
   }
   .backimg{
     background:url(https://i.postimg.cc/tJkgGHpj/900012-sachin-tendulkar-1.jpg);
-  background-repeat: no-repeat;
-    background-size:850px 
+  
+    
+    background-repeat: no-repeat;
+    width:100%;
   }
   .intro1{
     color:#fff;
